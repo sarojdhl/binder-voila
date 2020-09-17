@@ -1,0 +1,8 @@
+jupyterlab
+mlflow
+numpy
+pandas
+matplotlib
+seaborn
+voila
+
