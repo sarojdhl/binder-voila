@@ -1,10 +1,10 @@
 jupyterlab
+voila
 mlflow
 numpy
 pandas
 matplotlib
 seaborn
-voila
 
 
 
